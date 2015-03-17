@@ -21,13 +21,6 @@ is to enable it's users to share and relive those memories which are interlinked
 
 -> Add Compatibility with all Android phones.
 
-## Contributing
-1. Fork it!
-2. Create your feature branch: `git checkout -b my-new-feature`
-3. Commit your changes: `git commit -am 'Add some feature'`
-4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request :D
-
 ## Access
 The code is in a private repo awaiting completion for release. Please contact for further access
 
