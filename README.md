@@ -5,7 +5,7 @@ The aim of the application is to collect posts made by the user on various socia
 The assumption in designing the app is that the posts users make can viewed as memories. Thus, what this app aims to do is to do
 is to enable it's users to share and relive those memories which are interlinked to one another in form of 'Journeys'.
 ## Development Stage
--> Implemented the basic framework to connect to user twitter account.
+-> Implemented the basic framework to connect to user Twitter account.
 
 -> Implemented ability to make and view Journeys on a Google map.
 
@@ -15,7 +15,7 @@ is to enable it's users to share and relive those memories which are interlinked
 
 -> Testing going on to make a large dataset.
 ## Future Development
--> Get Facebook Support
+-> Add Facebook support
 
 -> Improve UI to support Android Material Design
 
